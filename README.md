@@ -28,18 +28,20 @@ Hedef, haber içeriklerine göre doğru kategorilere atama yaparak büyük veri 
 | 🔡 re (RegEx)       | Metin temizleme            |
 | 💾 pickle           | Model kaydetme             |
 | ☁️ Google Colab     | Geliştirme ortamı          |
+
+
 📈 Sonuçlar
 En İyi Model: Logistic Regression
 
 Doğruluk Oranı: 91.01% ✅
 
 Başarıyla sınıflandırılan örnek kategoriler:  
-🏀 Spor 
-🩺 Sağlık  
-💻 Teknoloji 
-💰 Ekonomi 
-🎓 Eğitim 
-🎭 Sanat ve Kültür
+🏀 Spor       
+🩺 Sağlık         
+💻 Teknoloji      
+💰 Ekonomi        
+🎓 Eğitim       
+🎭 Sanat ve Kültür        
 
 📄 Lisans
 Bu proje MIT Lisansı ile lisanslanmıştır.
