@@ -24,7 +24,7 @@ Hedef, haber içeriklerine göre doğru kategorilere atama yaparak büyük veri 
 | 📦 pandas           | Veri analizi               |
 | 🤖 scikit-learn     | Makine öğrenmesi modelleri |
 | 🧠 nltk             | Doğal dil işleme (NLP)     |
-| 🇹🇷 TurkishStemmer | Türkçe kök indirgeme       |
+| ☾⭑ TurkishStemmer | Türkçe kök indirgeme       |
 | 🔡 re (RegEx)       | Metin temizleme            |
 | 💾 pickle           | Model kaydetme             |
 | ☁️ Google Colab     | Geliştirme ortamı          |
