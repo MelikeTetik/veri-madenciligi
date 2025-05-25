@@ -1,5 +1,6 @@
 Otomatik Haber Kategorizasyonu (Automatic News Categorization)
-Proje Hakkında
+
+Proje Hakkında    
 Bu proje, farklı haber kaynaklarından (NTV, TRT Haber, Habertürk) toplanan haber içeriklerinin makine öğrenmesi teknikleriyle otomatik olarak kategorize edilmesini amaçlamaktadır. Python programlama dili ve çeşitli doğal dil işleme (NLP) kütüphaneleri kullanılarak geliştirilmiştir. Haberlerin içeriklerine göre doğru kategoriye atanması, büyük haber veri havuzlarının analizini kolaylaştırmak ve içerik tabanlı uygulamalar geliştirmek için tasarlanmıştır.
 
 Özellikler
