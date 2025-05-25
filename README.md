@@ -1,41 +1,45 @@
-Otomatik Haber Kategorizasyonu (Automatic News Categorization)
+📰 Otomatik Haber Kategorizasyonu (Automatic News Categorization)  
+📌 Proje Hakkında  
+Bu proje, farklı haber kaynaklarından (NTV, TRT Haber, Habertürk) toplanan haber içeriklerinin makine öğrenmesi teknikleri kullanılarak otomatik olarak kategorize edilmesini amaçlamaktadır.
+Python programlama dili ve çeşitli Doğal Dil İşleme (NLP) kütüphaneleri ile geliştirilmiştir.
+Hedef, haber içeriklerine göre doğru kategorilere atama yaparak büyük veri havuzlarının analizini kolaylaştırmaktır.
 
-Proje Hakkında    
-Bu proje, farklı haber kaynaklarından (NTV, TRT Haber, Habertürk) toplanan haber içeriklerinin makine öğrenmesi teknikleriyle otomatik olarak kategorize edilmesini amaçlamaktadır. Python programlama dili ve çeşitli doğal dil işleme (NLP) kütüphaneleri kullanılarak geliştirilmiştir. Haberlerin içeriklerine göre doğru kategoriye atanması, büyük haber veri havuzlarının analizini kolaylaştırmak ve içerik tabanlı uygulamalar geliştirmek için tasarlanmıştır.
+🚀 Özellikler   
+✅ Çoklu haber kaynağından veri toplama ve temizleme
 
-Özellikler   
-Çoklu haber kaynağından veri toplama ve temizleme
+🧠 Türkçe metinler için kök indirgeme (stemming) işlemleri
 
-Türkçe metinlerde kök indirgeme (stemming) uygulama
+📊 TF-IDF vektörleştirme ile metinlerin sayısallaştırılması
 
-TF-IDF vektörleştirme yöntemiyle haber metinlerini sayısal verilere dönüştürme
+🤖 Makine öğrenmesi algoritmalarıyla (Naive Bayes, Logistic Regression, SVM, Random Forest, Gradient Boosting) model eğitimi
 
-Naive Bayes, Logistic Regression, SVM, Random Forest ve Gradient Boosting algoritmaları ile model eğitimi
+🏆 En iyi modelin seçilmesi ve kaydedilmesi (.pkl)
 
-En iyi model seçimi ve kaydedilmesi
+🔍 Yeni haber içerikleri üzerinde sınıflandırma ve tahmin
 
-Yeni haberler üzerinde sınıflandırma ve tahmin
+🛠️ Kullanılan Teknolojiler & Kütüphaneler
+| Teknoloji           | Açıklama                   |
+| ------------------- | -------------------------- |
+| 🐍 Python 3         | Ana programlama dili       |
+| 📦 pandas           | Veri analizi               |
+| 🤖 scikit-learn     | Makine öğrenmesi modelleri |
+| 🧠 nltk             | Doğal dil işleme (NLP)     |
+| 🇹🇷 TurkishStemmer | Türkçe kök indirgeme       |
+| 🔡 re (RegEx)       | Metin temizleme            |
+| 💾 pickle           | Model kaydetme             |
+| ☁️ Google Colab     | Geliştirme ortamı          |
+📈 Sonuçlar
+En İyi Model: Logistic Regression
 
-Kullanılan Teknolojiler    
-Python 3
+Doğruluk Oranı: 91.01% ✅
 
-pandas
+Başarıyla sınıflandırılan örnek kategoriler:  
+🏀 Spor 
+🩺 Sağlık  
+💻 Teknoloji 
+💰 Ekonomi 
+🎓 Eğitim 
+🎭 Sanat ve Kültür
 
-scikit-learn
-
-nltk
-
-TurkishStemmer
-
-re (RegEx)
-
-pickle
-
-Google Colab (geliştirme ortamı)  
-Sonuçlar   
-En iyi model: Logistic Regression
-
-Doğruluk: %91.01  
-
-Model, spor, siyaset, ekonomi gibi kategorileri başarıyla ayırt edebilmektedir.
-
+📄 Lisans
+Bu proje MIT Lisansı ile lisanslanmıştır.
