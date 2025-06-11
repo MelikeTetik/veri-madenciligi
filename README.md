@@ -43,5 +43,4 @@ Başarıyla sınıflandırılan örnek kategoriler:
 🎓 Eğitim       
 🎭 Sanat ve Kültür        
 
-📄 Lisans
-Bu proje MIT Lisansı ile lisanslanmıştır.
+
